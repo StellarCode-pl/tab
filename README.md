@@ -1,5 +1,8 @@
 # TAB 
-Łatwa modyfikacja TAB'u po przez plugin od StellarCode!
+💫 Łatwa modyfikacja TAB'u po przez plugin od StellarCode!
 
 # Dokumetancja 
-https://stellarcode.gitbook.io/stellarcode/pluginy/tab
+* https://stellarcode.gitbook.io/stellarcode/pluginy/tab
+
+## Discord
+* https://discord.gg/RKEfzywCEN
