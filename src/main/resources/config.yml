@@ -1,0 +1,34 @@
+###################################################################
+# StellarCode.pl
+###################################################################
+# Wsparcie: dc.stellarcode.pl lub https://discord.gg/RKEfzywCEN
+###################################################################
+# Dokumentacja: https://stellarcode.gitbook.io/stellarcode
+###################################################################
+TAB:
+  wiadomosci:
+    # Możesz również użyć PlaceholderAPI (PAPI)
+    # Aby dodać np. statystyki do TABU
+    # https://github.com/PlaceholderAPI/PlaceholderAPI
+    #
+    # Jesli już masz PAPI, zainstaluj z eCloud'u rozszerzenia (https://api.extendedclip.com/all/)
+    #
+    # Pobrany plik wrzuć do folderu PlaceholderAPI/expansions
+    # Lub
+    # Komenda na pobranie rozszerzeń na serwerze: /papi ecloud download <rozszerzenie>
+    #
+    # Przyklad uzycia:
+    # - "Nick: %player_name%"
+    header:
+      - "#2C26BC&lStellar#F1F0FB&lCode.pl"
+      - "&fWsparcie: #3681D5dc.stellarcode.pl"
+    footer:
+      - "Wersja 1.0 &c&l <3"
+###################################################################
+sortowanie:
+  grupy:
+    - admin
+    - moderator
+    - vip
+    - default
+

@@ -1,0 +1,11 @@
+name: scTAB
+version: '1.0'
+main: pl.stellarcode.stellarcodeTab.main
+api-version: '1.18'
+description: 'Plugin który, umożliwia łatwą edycję TABa'
+author: 'Kartos'
+authors:
+  - 'StellarCode'
+commands:
+  tab:
+    description: Komenda tab, umożliwa modyfikowanie configu i nie tylko.
