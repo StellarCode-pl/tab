@@ -4,5 +4,5 @@
 # Dokumetancja 
 * https://stellarcode.gitbook.io/stellarcode/pluginy/tab
 
-## Discord
+## Discord 🤖
 * https://discord.gg/RKEfzywCEN
