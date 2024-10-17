@@ -1,7 +1,7 @@
-# TAB 
+# TAB 👽 
 💫 Łatwa modyfikacja TAB'u po przez plugin od StellarCode!
 
-# Dokumetancja 
+# Dokumetancja 📖
 * https://stellarcode.gitbook.io/stellarcode/pluginy/tab
 
 ## Discord 🤖
