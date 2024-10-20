@@ -84,7 +84,9 @@ public final class main extends JavaPlugin implements Listener {
     public void updateTab() {
         for (Player p : Bukkit.getOnlinePlayers()) {
 
-            sortTabList.sortPlayer(p);
+            if (luckperms) {
+                sortTabList.sortPlayer(p);
+            }
 
             if (placeholderapi) {
                 p.setPlayerListHeaderFooter(PlaceholderAPI.setPlaceholders(p, header), PlaceholderAPI.setPlaceholders(p, footer));
