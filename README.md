@@ -4,7 +4,7 @@
 - ⚠️ Starsze wersje nie są wspierane, nie były one testowane!
 
 # Dokumentacja 📖
-* https://stellarcode.gitbook.io/stellarcode/pluginy/tab
+* https://docs.stellarcode.pl
 
 ## Discord 🤖
 * https://discord.gg/RKEfzywCEN
